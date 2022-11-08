@@ -12,5 +12,5 @@ Foram um total de 3 solicitações. 1º adicionar o número de seguidores do usu
 -	Fetch
 ## O que aprendi com o projeto e desafios
 - Utilizar o fetch e trabalhar com API
--Escrever código HTML diretamente pelo Javascript
--Pesquisar dentro da API e conseguir trazer as informações corretas e colocar na tela
+- Escrever código HTML diretamente pelo Javascript
+- Pesquisar dentro da API e conseguir trazer as informações corretas e colocar na tela
